@@ -1,0 +1,247 @@
+I am made to give CoursesDetails.
+
+I am a ChatBot.
+
+My name is Course Enrollment chatBot.
+
+I can help you to enroll into best courses.
+
+hii!
+hello.
+
+hello!
+hey.
+
+hola!
+hello.
+
+greetings!
+hii there.
+
+hey!
+I am glad! You are talking to me.
+
+what's up!
+hii there.
+
+Thank you!
+You're welcome.
+
+Bye!
+Bye,Have a Good Day!
+
+Artficial Intelligence
+Course Name : Artificial intelligence
+Link: <a href = "https://www.linkedin.com/learning/paths/master-the-fundamentals-of-ai-and-machine-learning?trk=learning-serp_learning_search-card&upsellOrderOrigin=learning-serp_learning_search-card">clickhere</a>
+University1 providing: Instructors of LinkedIn
+Duration        :12 hrs
+Paid/Unpaid     :paid
+Certification   :yes
+
+Course Name: Artificial intelligence for Robotics
+Link: <a href = "https://www.classcentral.com/course/udacity-artificial-intelligence-for-robotics-319/course/udacity-artificial-intelligence-for-robotics-319">clickhere</a>
+University2 providing: Stanford University via Udacity
+Duration      : 8weeks
+Paid/Unpaid   :Unpaid
+Certification : yes
+
+Course Name: Artificial Intelligence
+Link: <a href = "https://www.coursera.org/learn/ai-for-everyone#faq">clickhere</a>
+University3 providing: Coursera
+Duration      : 6 hours
+Paid/Unpaid   :Paid
+Certification : yes
+
+Course Name: Artificial intelligence
+Link: <a href ="https://www.edx.org/course/artificial-intelligence-ai">clickhere</a>
+University4 providing:  Edx
+Duration      : Approx 12 weeks(8-10hrs/week)
+Paid/Unpaid   :Paid
+Certification : yes
+
+Course Name: Artificial Intelligence
+Link: <a href ="https://www.udacity.com/course/ai-artificial-intelligence-nanodegree--nd898">clickhere</a>
+University5 providing: Nanodegree program
+Duration      : 3 months (12-15 hrs per week)
+Paid/Unpaid   :paid
+Certification : yes.
+
+Machine learning
+Course Name: Machine learning
+Link: <a href = "https://www.coursera.org/learn/machine-learning">clickhere</a>
+University1 providing: Stanford University via Coursera
+Duration      : 60 hours
+Paid/Unpaid   :Paid
+Certification : yes
+
+Course Name: Machine Learning
+Link: <a href = "https://www.linkedin.com/learning/paths/become-a-raspberry-pi-developer?trk=learning-serp_learning_search-card&upsellOrderOrigin=default_guest_learning">clickhere</a>
+University2 providing: Instructors of LinkedIn
+Duration      : 17 hrs
+Paid/Unpaid   :paid
+Certification : yes
+
+Course Name: Machine learning
+Link: <a href = "https://www.edx.org/course/machine-learning-4">clickhere</a>
+University3 providing:  Edx
+Duration      : Approx 14 weeks(8-10hrs /week)
+Paid/Unpaid   :Paid
+Certification : yes
+
+Course name:   Machine learning
+Link: <a href = "https://www.udemy.com/course/machine-learning-with-unity/">clickhere</a>
+University4 providing: Udemy
+Duration      : approx 13 hours
+paid/unpaid   : paid
+Certification : yes
+
+Course Name: Machine Learning
+Link: <a href = "https://www.udacity.com/course/intro-to-machine-learning--ud120">clickhere</a>
+University5 providing: Nanodegree program
+Duration      : 10 weeks
+Paid/Unpaid   :unpaid
+Certification : yes.
+
+Internet of Things
+Course Name: Internet of things
+Link: <a href = "https://www.coursera.org/specializations/iot#enroll">clickhere</a>
+University1 providing:  Coursera Offered by University of California,Irvine
+Duration      : Approx 6 months(3hrs per week)
+Paid/Unpaid   :Paid
+Certification : yes
+
+Course Name: Internet of things
+Link: <a href = "https://www.edx.org/course/introduction-to-the-internet-of-things-3">clickhere</a>
+University2 providing: Edx
+Duration      : Approx 2 weeks(1-5 hrs /week)
+Paid/Unpaid   :Paid
+Certification : yes
+
+Course name:Internet of things
+Link:  <a href = "https://www.udemy.com/share/101ZzE/">clickhere</a>
+University3 providing: Udemy
+Duration      : approx 15 hours
+paid/unpaid   : paid
+Certification : yes
+
+Course Name: Internet of Things
+Link: <a href = "https://www.linkedin.com/learning/paths/become-a-raspberry-pi-developer?trk=learning-serp_learning_search-card&upsellOrderOrigin=default_guest_learning">clickhere</a>
+University4 providing: Instructors of LinkedIn
+Duration      : 17 hrs
+Paid/Unpaid   :paid
+Certification : yes
+
+Course Name: Internet Of Things
+Link: <a href = "https://www.udacity.com/course/intel-edge-ai-for-iot-developers-nanodegree--nd131">clickhere</a>
+University5 providing: Collaboration with Intel
+Duration      : 3 months (10 hrs per week)
+Paid/Unpaid   :paid
+Certification : yes.
+
+Website Design
+Course Name: Website design
+Link: <a href = "https://www.coursera.org/specializations/web-design">clickhere</a>
+University1 providing:  Coursera Offered by University of Michigan
+Duration      : Approx 6 months(3hrs per week)
+Paid/Unpaid   :Paid
+Certification : yes
+
+Course Name: Website design
+Link: <a href = "https://www.edx.org/professional-certificate/w3cx-front-end-web-developer">clickhere</a>
+University2 providing:  Edx
+Duration      : Approx 7 months(5-7hrs /week)
+Paid/Unpaid   :Paid
+Certification :yes
+
+1.Course name: Website design
+2.Link: <a href = "https://www.udemy.com/course/the-complete-web-development-bootcamp/c">clickhere</a>
+3.University3 providing: Udemy
+4.Duration     : approx 55 hours
+5.paid/unpaid  : paid
+6.Certification : yes
+
+Course Name: Website design
+Link: <a href = "https://www.linkedin.com/learning/paths/become-a-web-designer?trk=learning-serp_learning_search-card&upsellOrderOrigin=default_guest_learning">clickhere</a>
+University4 providing: Instructors of LinkedIn
+Duration      : 29 hrs
+Paid/Unpaid   :paid
+Certification : yes
+
+Course Name: Website Design
+Link:  <a href = "https://www.udacity.com/course/responsive-web-design-fundamentals--ud893">cliclhere</a>
+University5 providing: Nanodegree program
+Duration      :2 weeks
+Paid/Unpaid   :unpaid
+Certification : No.
+
+Ethical Hacking
+Course Name: Ethical hacking
+Link: <a href = "https://www.coursera.org/professional-certificates/ibm-cybersecurity-analyst">clickhere</a>
+University1 providing:  Coursera Offered by IBM
+Duration      :Approx 8 months(4hrs /week)
+Paid/Unpaid   :Paid
+Certification : yes
+
+Course Name: Ethical hacking
+Link:<a href = "https://www.edx.org/course/cybersecurity-fundamentals">clickhere</a>
+University2 providing:  Edx
+Duration      : Approx 8 weeks(10-12hrs /week)
+Paid/Unpaid   :Paid
+Certification : yes
+
+Course name:  Ethical hacking
+Link:<a href = "https://www.udemy.com/course/penetration-testing/">clickhere</a>
+University3 providing: Udemy
+Duration      : approx 25 hours
+paid/unpaid   : paid
+Certification : yes
+
+Course Name: Ethical Hacking
+Link: <a href = "https://www.linkedin.com/learning/paths/become-an-ethical-hacker">clickhere</a>
+University4 providing: Instructors of LinkedIn
+Duration      : 28 hrs
+Paid/Unpaid   : paid
+Certification : yes
+
+Course Name: Ethical Hacking
+Link: <a href = "https://www.udacity.com/course/ethical-hacker-nanodegree--nd350">clickhere</a>
+University5s providing: Nanodegree program
+Duration       : 2 months
+Paid/Unpaid    :paid
+Certification  : No.
+
+C Programming
+Course Name: C
+Link: <a href = "https://log2base2.com/c-programming">clickhere</a>
+University1 providing: Log2base2
+Duration      : Approx 12 hrs
+Paid/Unpaid   :Paid
+Certification : yes
+
+Course Name: C
+Link: <a href = "https://www.udemy.com/course/c-programming-for-beginners-/">clickhere</a>
+University2 providing: Udemy
+Duration      : 24 hrs
+Paid/Unpaid   :paid
+Certification : yes
+
+Course Name: C
+Link: <a href = "https://www.mygreatlearning.com/academy/learn-for-free/courses/c-programming">clickhere</a>
+University3 providing: mygreatlearning
+Duration      :  40 hrs
+Paid/Unpaid   :UnPaid
+Certification : yes
+
+Course name:   C
+Link: <a href = "https://www.edx.org/learn/c-programming">clickhere</a>
+University4 providing: Edx
+Duration      : approx 14 hours
+paid/unpaid   : paid
+Certification : yes
+
+Course Name: C
+Link: <a href = "https://www.learnvern.com/c-programming-tutorial">clickhere</a>
+University5 providing: learnvern
+Duration      : 10 weeks
+Paid/Unpaid   :unpaid
+Certification : yes
